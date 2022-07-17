@@ -1,4 +1,10 @@
 ### Hi there 👋
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayberktecimer" /></p>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayberktecimer&hide=CSS,JavaScript,%20HTML,%20C,%20PHP" />
+</a>
+
 
 <!--
 **ayberktecimer/ayberktecimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

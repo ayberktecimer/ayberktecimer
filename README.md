@@ -5,7 +5,7 @@
 <img align="right" height="180px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a MSc student at TUM and Data Scientist at Stryber
-- :newspaper: Conduct research and publish papers on [Software Analytics][scholar]
+- :newspaper: Conducting research and publish papers on [Software Analytics][scholar]
 - :chart_with_upwards_trend: Experienced building & deploying data pipelines and ML applications with Python that use over 1 million customer data.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 

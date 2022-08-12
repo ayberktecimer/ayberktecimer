@@ -5,24 +5,33 @@
 <img align="right" height="180px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a MSc student at TUM and Data Scientist at Stryber
-- :newspaper: Conducting research and publishing papers on [Software Analytics][scholar]
+- :newspaper: Conducting research and publishing papers on Software Analytics, check out my [publications][scholar].
 - :chart_with_upwards_trend: Experienced building & deploying data pipelines and ML applications with Python that use over 1 million customer data.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
 ## &#x1f4c8; GitHub Stats
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayberktecimer" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayberktecimer" /></p>
 </a>
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayberktecimer&hide=CSS,JavaScript,%20HTML,%20C,%20PHP, Java,PureBasic,Lex, Yacc" />
+-->
 </a>
 
+
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Serverless-informational?style=flat&logo=serverless&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+<p float="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
+
+</p>
+
+
 
 ##  &#x1F4F1; Social Media
 <a href="https://www.linkedin.com/in/ayberktecimer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -34,6 +43,8 @@
 
 <!--
 **ayberktecimer/ayberktecimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Activity Graph
+<p><img src= "https://activity-graph.herokuapp.com/graph?username=ayberktecimer&theme=minimal" /></p>
 
 Here are some ideas to get you started:
 

@@ -2,7 +2,7 @@
 
 </p>
 
-<img align="right" height=25% width = 25% alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width = 30% alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a MSc student at TUM and Data Scientist at Stryber
 - :newspaper: Conducting research and publishing papers on Software Analytics, check out my [publications][scholar].

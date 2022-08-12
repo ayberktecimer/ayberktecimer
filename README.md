@@ -2,11 +2,11 @@
 
 </p>
 
-<img align="right" height="180px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height=25% width = 25% alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a MSc student at TUM and Data Scientist at Stryber
 - :newspaper: Conducting research and publishing papers on Software Analytics, check out my [publications][scholar].
-- :chart_with_upwards_trend: Experienced building & deploying data pipelines and ML applications with Python that use over 1 million customer data.
+- :chart_with_upwards_trend: Experienced building & deploying data pipelines and ML applications with Python that use over one million customer data.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
 ## &#x1f4c8; GitHub Stats

@@ -4,7 +4,7 @@
 
 <img align="right" width = 26% alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am MSc student at TUM and Backend Developer & Data Scientist at Stryber
+### I am a MSc student at TUM and Data Scientist at Stryber
 - :newspaper: Conducting research and publishing papers on Software Analytics, check out my [publications][scholar].
 - :chart_with_upwards_trend: Experienced building & deploying data pipelines and ML applications with Python that use over one million customer data.
 - 📬 How to reach me: [Let's get in touch!][linkedin]

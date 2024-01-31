@@ -9,15 +9,6 @@
 - :chart_with_upwards_trend: Experienced building & deploying data pipelines and ML applications with Python that use over one million customer data.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
-## &#x1f4c8; GitHub Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayberktecimer" /></p>
-</a>
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayberktecimer&hide=CSS,JavaScript,%20HTML,%20C,%20PHP, Java,PureBasic,Lex, Yacc" />
--->
-</a>
-
 
 ## 🔧 Technologies & Tools
 <p float="left">
